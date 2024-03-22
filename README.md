@@ -1,4 +1,4 @@
-Am sustinut teoria si practica in cadrul unui curs gratuit de UI/UX Design unde am realizat home page-ul unei aplicatii e-commerce.
+Am sustinut teoria si practica in cadrul unui curs gratuit de UI/UX Design unde am invatat bazele design-ului si sa folosesc aplicatia Figma, cu ajutorul careia am realizat home page-ul unei aplicatii e-commerce.
 
 Link-ul catre aplicatie: https://www.figma.com/file/H1EuElDbU9AWXqwMwf32D5/Site-e-commerce?type=design&node-id=0%3A1&mode=design&t=R0hjLpFAuFjc9pyd-1
 
